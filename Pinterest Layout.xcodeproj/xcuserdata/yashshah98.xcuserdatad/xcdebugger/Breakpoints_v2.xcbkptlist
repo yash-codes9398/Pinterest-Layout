@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F34EAC2D-5DA5-491C-A5BA-CA45273CD216"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "61ACFC57-A9AE-4B9F-99F8-242DBF95F3CF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImageCVCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "setData(imageObject:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "61ACFC57-A9AE-4B9F-99F8-242DBF95F3CF - c1817c010a60d2c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Pinterest_Layout.ImageCVCell.setData(imageObject: Swift.Optional&lt;Pinterest_Layout.ImageObject&gt;) -&gt; ()"
+                  moduleName = "Pinterest Layout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yashshah98/Desktop/Personal/Pinterest%20Layout/ImageCVCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "61ACFC57-A9AE-4B9F-99F8-242DBF95F3CF - c1817c010a60d2c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Pinterest_Layout.ImageCVCell.setData(imageObject: Swift.Optional&lt;Pinterest_Layout.ImageObject&gt;) -&gt; ()"
+                  moduleName = "Pinterest Layout"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yashshah98/Desktop/Personal/Pinterest%20Layout/ImageCVCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "334">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73C8C09D-D189-4122-8F1B-099FE6CB6266"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ImageCVCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "setData(imageObject:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
